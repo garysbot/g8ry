@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Gary Jiang full-stack software engineer with a background in growth marketing, startups, and entrepreneurship.',
 
   // social usernames (optional)
-  twitter: '71.18_25',
+  twitter: '71_18_25',
   github: 'garysbot',
   linkedin: 'garyjiang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
